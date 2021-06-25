@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abhi-bn
-- 👀 I’m interested in Computer Vision, Algorithm Dev, Full Stack
-- 🌱 I’m currently learning always
+- 👋 Hi, I’m @Abhi-bn..
+- 👀 I’m interested in Computer Vision, Algorithm Dev, Full Stack...
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on anything interesting!!!
 - 📫 Reach Me at abhinava.nanjundaiah@gmail.com
 
